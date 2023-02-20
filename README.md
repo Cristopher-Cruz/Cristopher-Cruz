@@ -3,7 +3,7 @@ I'm a software developer with a passion for building things and learning.
 
 
 ## My Portfolio
-Visit my personal website [Here](https://Cristopher-Cruz.github.io) to know more about me and see some of my work in detail
+Visit my personal website [Here](https://Cristopher-Cruz.github.io) to see some of my work
 
 
 
