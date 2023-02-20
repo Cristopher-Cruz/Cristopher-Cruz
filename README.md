@@ -5,6 +5,9 @@ I'm a software developer with a passion for building things and learning.
 ## My Portfolio
 Visit my personal website [Here](https://Cristopher-Cruz.github.io) to see some of my work
 
+## Connect with me
+Visit My linkedIn profile [Here](http://linkedin.com/in/cristophercruz/) 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
