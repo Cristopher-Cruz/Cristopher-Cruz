@@ -1,5 +1,5 @@
 ## Welcome !
-I'm a software developer with a passion for building things and learning. 
+I'm a software developer with a passion for learning. 
 
 
 ## My Portfolio
