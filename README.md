@@ -19,5 +19,3 @@ Visit My linkedIn profile [Here](http://linkedin.com/in/cristophercruz/)
 
 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristopher-Cruz&show_icons=true&locale=en&layout=compact" alt="Cristopher-Cruz" /></p>
