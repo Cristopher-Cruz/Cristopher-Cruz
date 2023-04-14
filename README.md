@@ -2,8 +2,8 @@
 I'm a software developer with a passion for learning 
 
 
-## My Portfolio
-Visit my personal website [Here](https://Cristopher.dev) to see some of my work
+## See my work
+Visit my personal website [Here](https://Cristopher.dev) 
 
 ## Connect with me
 Visit My linkedIn profile [Here](http://linkedin.com/in/cristophercruz/) 
