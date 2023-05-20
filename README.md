@@ -3,7 +3,7 @@ I'm a software developer with a passion for learning
 
 
 ## See my work
-Visit my portfolio website [Here](https://Cristopher.dev) 
+Visit my personal website [Here](https://Cristopher.dev) 
 
 ## Connect with me
 Visit My linkedIn profile [Here](http://linkedin.com/in/cristophercruz/) 
