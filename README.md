@@ -1,6 +1,5 @@
 ## Welcome !
-I'm a software developer with a passion for learning 
-
+I'm a software developer with a passion for learning all things computer related
 
 ## See my work
 Visit my personal website [Here](https://Cristopher.dev) 
